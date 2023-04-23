@@ -1,0 +1,13 @@
+﻿  ConsoleApplication3.cpp
+c:\users\79133\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(122): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\79133\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\79133\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(262): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\79133\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(305): warning C4305: =: усечение из "double" в "float"
+c:\users\79133\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(319): warning C4305: =: усечение из "double" в "float"
+c:\users\79133\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(324): warning C4305: =: усечение из "double" в "float"
+c:\users\79133\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(330): warning C4305: =: усечение из "double" в "float"
+c:\users\79133\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(336): warning C4305: =: усечение из "double" в "float"
+c:\users\79133\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(342): warning C4305: =: усечение из "double" в "float"
+c:\users\79133\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(360): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\79133\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(367): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  ConsoleApplication3.vcxproj -> C:\Users\79133\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
